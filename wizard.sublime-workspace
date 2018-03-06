@@ -1,0 +1,962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"m",
+				"msg"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"umb",
+				"umbAnreise"
+			],
+			[
+				"vertrag",
+				"vertragUmbuchen"
+			],
+			[
+				"anz",
+				"anzInk"
+			],
+			[
+				"user",
+				"userMan"
+			],
+			[
+				"ust",
+				"ustsumme"
+			],
+			[
+				"utf8d",
+				"utf8_decode"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"target",
+				"targetFile"
+			],
+			[
+				"sql",
+				"sqlaus"
+			],
+			[
+				"u",
+				"um"
+			],
+			[
+				"tage",
+				"tageImJahr"
+			],
+			[
+				"gesam",
+				"gesamtmenge"
+			],
+			[
+				"info",
+				"infoPayment"
+			],
+			[
+				"global",
+				"globalFirma"
+			],
+			[
+				"pmt",
+				"PmtTpInf"
+			],
+			[
+				"Pm",
+				"PmtInf"
+			],
+			[
+				"S",
+				"SvcLvl"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"xml",
+				"xmlns_schema"
+			],
+			[
+				"files",
+				"fileperms"
+			],
+			[
+				"um",
+				"umbenennen"
+			],
+			[
+				"B",
+				"Bankverbindungen"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"utf8",
+				"utf8_decode"
+			],
+			[
+				"sa",
+				"saisonzeiten"
+			],
+			[
+				"objek",
+				"objekteID"
+			],
+			[
+				"APP",
+				"APP_URL"
+			],
+			[
+				"ausstattung",
+				"ausstattungID"
+			],
+			[
+				"DB",
+				"DB_ResFewo_1"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"t",
+				"typ"
+			],
+			[
+				"emial",
+				"eMailEmpfaengerc"
+			],
+			[
+				"email",
+				"eMailEmpfaengerc"
+			],
+			[
+				"ab",
+				"abrechnung"
+			],
+			[
+				"em",
+				"eMailEmpfaenger"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"sec",
+				"secPassword"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"resize",
+				"resizePaths"
+			],
+			[
+				"respons",
+				"responsivePathUpper"
+			],
+			[
+				"date",
+				"dateToUnixTimestamp"
+			],
+			[
+				"jQ",
+				"jqXHR"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tpl",
+				"tpl_text"
+			],
+			[
+				"html",
+				"html_text"
+			],
+			[
+				"test",
+				"test_data"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"ik",
+				"inktxt2"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"upl",
+				"uploadButton"
+			],
+			[
+				"extra",
+				"extradata"
+			],
+			[
+				"uplo",
+				"uploadFile"
+			],
+			[
+				"lehrer",
+				"lehrersteckbriefe"
+			],
+			[
+				"save_",
+				"save_zitate"
+			],
+			[
+				"acess",
+				"accessLevel"
+			],
+			[
+				"read",
+				"read_kommentar"
+			],
+			[
+				"exi",
+				"exists"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"where",
+				"whereAC2"
+			],
+			[
+				"payment",
+				"payment_userid"
+			],
+			[
+				"paymen",
+				"payment_txid"
+			],
+			[
+				"pay",
+				"payment_txid"
+			],
+			[
+				"erro",
+				"errorid"
+			],
+			[
+				"rech",
+				"rechnungID"
+			],
+			[
+				"mysqli_i",
+				"mysql_insert_id"
+			],
+			[
+				"an",
+				"anzeigen"
+			],
+			[
+				"kn",
+				"kndnr"
+			],
+			[
+				"akt",
+				"aktMon"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"arti",
+				"artikelIDs"
+			],
+			[
+				"unter",
+				"unternehmensgruppe"
+			],
+			[
+				"tl_gruender_consultant",
+				"tl_gruender_consultant_schwerpunkt"
+			],
+			[
+				"wh",
+				"whereUnternehmensgruppen"
+			],
+			[
+				"tl_",
+				"tl_consultant_search"
+			],
+			[
+				"rechnun",
+				"rechnungsnr"
+			],
+			[
+				"modal_",
+				"modal_schließen"
+			],
+			[
+				"sub",
+				"submitButtonRec"
+			],
+			[
+				"jso",
+				"jQuery.parseJSON\tjQuery.parseJSON"
+			],
+			[
+				"cc",
+				"cc_gueltig"
+			],
+			[
+				"r",
+				"reference"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"ex",
+				"exjahr"
+			],
+			[
+				"reque",
+				"requester"
+			],
+			[
+				"po",
+				"portal_key"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"import",
+				"importdatei"
+			],
+			[
+				"im",
+				"importdatei"
+			],
+			[
+				"alt",
+				"altneu"
+			],
+			[
+				"anzeig",
+				"anzeigennummer"
+			],
+			[
+				"as",
+				"asMonat"
+			],
+			[
+				"az",
+				"azMonat"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"frei",
+				"freischaltung"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"nextA",
+				"nextAusgabe"
+			],
+			[
+				"nex",
+				"nextUntil\t.nextUntil()"
+			],
+			[
+				"aus",
+				"ausgabe"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bag",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"btn",
+				"btnRec"
+			],
+			[
+				"I",
+				"INTO"
+			],
+			[
+				"pl",
+				"platzierung"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"A",
+				"AND"
+			],
+			[
+				"G",
+				"GUTSCHEINBREITE"
+			],
+			[
+				"o",
+				"offsetLinks"
+			],
+			[
+				"Brei",
+				"BREITE_MITTE"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Add Repository"
+			],
+			[
+				"Packe",
+				"Package Control: Install Package"
+			],
+			[
+				"tmpl",
+				"Tmpl: Create php"
+			],
+			[
+				"templa",
+				"Create file from Template"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/Kunden/wizard/index.html",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/581931FC-C611-4169-A8BF-23D46F605F36/modules.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/CF60CFE0-E76B-42D1-916D-D5859A1CBD52/config.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/80EC6F74-CCD6-423B-AA23-20031116A52E/info.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/D5DD3155-F75F-45DE-98DE-1AD746EFCDB9/main-navigation.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/7B9FA4F0-3EB6-4363-9268-5C2A14C16E98/home.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/2FE18A17-3BD9-424A-8FBB-E9FE5F6C3B38/teamleiter-gesundheitsberufe.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/A143D58B-E0F5-408C-AB74-3739895F5F35/production.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/12A5054D-B8C1-452E-AE17-F9CF98A1AC28/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/8C554CC6-E1DA-4292-9B74-DF0175E6291D/Orders.php",
+		"/Users/chris/Desktop/OrdersMainData.xml",
+		"/Users/chris/Downloads/export.orders.2018.03.05.10.33.00-bae06a4e.xml",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/5B2BDA06-7C5A-4B19-A27B-B8AE431EBBC0/check.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/33A0BD57-71CE-4292-9568-D774CE362A26/ping.php",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Responsive/frontend/_public/src/less/_modules/home.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/34319321-E600-4758-84C1-BEA194A60DD3/shop-navigation.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/checkout/actions.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/checkout/cart.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/checkout/header.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/widgets/checkout/info.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Responsive/frontend/_public/src/less/_modules/header.less",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/note/index.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/47DC59BF-EF84-41C9-967F-B4DCD0888CE3/shop-navigation.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/F2853BB1-C918-4C3B-83CA-DA950BA75A24/shop-navigation.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/FD3F2720-9CA4-4E4D-91A7-FC33BAD2CE3C/modules.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/B3E6FCF0-7FD3-482A-AE2E-7159B932A4A9/header.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/C3BB560A-06F7-46B2-AB60-F00688BEC2CC/shop-navigation.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/account/index.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/01AA1D72-568C-4006-BD8D-69A6C24D742E/all.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/BCFB9D05-10D9-4746-A15A-B59C1DE80DA8/modules.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/A4527682-61F8-4479-AA90-D50DD01032A3/main-navigation.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/CBF41274-2142-475A-B0F9-08E708D22B29/shop-navigation.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/E0F52657-EF8E-47A4-B557-C1CAA248D13B/header.less",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/index/header.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/index/main-navigation.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/index/topbar-navigation.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/index/index.tpl",
+		"/Applications/MAMP/htdocs/shopware/themes/Frontend/Bare/frontend/index/shop-navigation.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/B1715ABA-BE2D-45BE-B5A0-B57AD55FBB3A/modules.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/DF9ED03B-2ABA-48E6-9B3C-7539161A474D/shop-navigation.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/8BE9C302-0466-40DF-9DAF-2B717B4F3930/main-navigation.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/D300162C-AD35-4A6D-9886-12C34ACFD9A9/main-navigation.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/6FEC9ADD-4F57-44B9-A816-A50160388BB2/Theme.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/39D3580C-0D88-45E5-A5BC-B570B4535A20/Gruntfile.js",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/23D2D99E-44CC-441C-AA37-A4B8067B6BE8/karma.conf.js",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/69743B0A-7D55-4525-BD1C-78E3A0A16FCD/package.json",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/72365959-CCDB-4C6E-9C6B-CF3AC7F9B281/all.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/44A066B5-1A83-464D-BF41-8023F36915F6/home.less",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/A2356145-E750-44E8-800A-709780BB08B8/index.tpl",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/10F2A5AD-CD0F-4707-9B15-73E5D4D0C403/Theme.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/92D6CFEB-282A-46EC-9DEB-21FAA6651183/news.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/E7A8163F-CB2B-4E8B-8247-38D94444E7CD/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/101EB271-6923-48E1-94E4-A76E979A3E04/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/7279CB2B-8F18-404F-8DDF-EAA2C6E08B37/.htaccess",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/73F6EDAF-6E4C-4734-9CC0-282793065159/blog.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/5F25BFBB-B412-4622-875D-60886DB7F75F/ac2.jpg",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/listen/pdf.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/19A9BCB6-2056-45EA-9334-0F0F9F53353B/pdf.php",
+		"/Applications/MAMP/htdocs/Kunden/comovision/shopware/engine/Shopware/Configs/Default.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/1865AA0C-78DA-4B2A-AC21-82BF16F3A8E1/pdf.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/inc/pdf.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/D7573AC3-F87C-4211-8CE0-9BAC0DD2BB10/pdf.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/8CEC3D9B-234E-4999-A868-A671B612B5BA/restoremieter.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/3F310E7E-1EC7-41E9-BB1E-CD7E4A7DD1C7/haltestellen.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/6F1869F5-B6F1-45DA-A72E-999D42FD0652/.htaccess",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/72A8B6B8-B9D1-46FF-881F-9C4D1780190A/.htaccess",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/E68CA191-D598-4FDA-BACD-7E2EE952178F/fahrplan.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/099874AF-D328-4C2D-BEAB-34D6BE8408BC/tarifrechner.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/F8B632E0-D32E-4B5E-AB3D-765BC0F0A534/import_slider.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/A4DB7545-2CFB-4FB4-8EAE-312ADF6BA8FE/pwdpatch.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/9C6656C7-EB35-40DE-8229-CED4EA9E0A7A/news.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/187F4A61-5A8F-4E42-A07A-637F4379FC92/index.php",
+		"/Users/chris/Downloads/dump",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/717C41EA-0042-4435-8219-73159E4AB674/nav_default.html5",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/sql/Rekonstruktion Mieterdaten 2018-02-27.sql",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/3A17D466-4CC6-40A6-9D0B-EAF531E63EB9/.htaccess",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/sql/resfewialt_2018-02-27.sql.gz",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/9C4359B5-1A94-473D-ADCC-949627C0DB89/.htaccess",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/48C1A93B-9022-453E-87AF-8BA94A2D728B/update_db_vertraege.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/14B37693-B042-4F78-A2FE-2E562B3E33D4/.htaccess",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/66ADCB81-DB65-4EE4-A100-88D958E841C1/404.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/objekte/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/objekte/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/user/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/user/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/mieter/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/mieter/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/mandanten/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/mandanten/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/haeuser/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/haeuser/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/eigentuemer/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/eigentuemer/form.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/91EFE7B1-0A4B-45F2-81B7-62403D8C422C/news.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/B7C547C6-2FF7-4EB5-85C2-527759FA9089/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/07FA4284-54EE-4BDA-81CF-CE14FA9E403B/index.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/dashboard/index.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/reservierung/data.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/vertraege/form.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/vertraege/index.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/login.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/modules/reservierung/index.php",
+		"/Applications/MAMP/htdocs/Kunden/buenning/resfewo2/lib/util.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/BE44E1F1-9A7C-4D9C-A97A-48F90E5A4A75/login.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/8B7DD583-BFE6-4191-B37D-B39D223804D7/index.php",
+		"/Applications/MAMP/htdocs/Kunden/taylerspoint/vln/system/config/localconfig.php",
+		"/Applications/MAMP/htdocs/Kunden/taylerspoint/vln/app/config/parameters.yml",
+		"/Applications/MAMP/htdocs/Kunden/taylerspoint/vln/var/logs/prod-2018-02-22.log",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/434ABC7E-4EEC-4923-B397-B894034F1C69/import_slider.php",
+		"/Applications/MAMP/htdocs/Kunden/taylerspoint/vln/templates/import_slider.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/6BD68F0F-2114-4EA6-84B4-36B72B8369D1/parameters.yml",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/D233EB1A-950B-48BF-80C1-9CD9979CBF81/import_slider.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/1C98D4DC-DA13-42C4-8650-FEF5F1A14145/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/539FD738-ECC9-428A-9CD3-44E00A94A98A/index.html",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/AF00228D-496D-4168-A822-822C01ABFFFB/localconfig.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/1788E020-C23D-475E-B775-6DABA9FC20E2/initialize.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/122ACDA6-4613-4E24-93D1-779881E4C1AA/parameters.yml",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/D5D5E4A4-86F7-41E3-8EB8-31C6C01F50E8/form.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/26A3FE24-B2AC-4649-9FBD-942477DC0AE2/index.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/455E2B11-765C-454A-B171-74F3E945AF19/form.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/DAB2BEFF-FC17-4D80-93AD-643FE640A762/data.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/13B048B2-E88D-4A94-B674-900FE82BE5E4/pdf.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/41E906AF-6BC9-4A33-B661-1710BE4ED840/abrechnung.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/DDC2648F-FFD0-49AF-BD90-7D262544E7FC/upload.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/A1A821E0-EF32-447B-820B-0CEA9564727E/pdf.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/6E9A30CD-F3E4-4CE4-900C-010870D9A794/uebersicht_eigentuemer_abrechnen.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/8DE6369D-891E-4826-9F60-5582C2F6986A/data.php",
+		"/Users/chris/Library/Caches/Cleanup At Startup/Transmit/ADC95A38-11DB-4EDB-B561-59D351B06EDF/data.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"note",
+			"92733",
+			"81132",
+			"82400",
+			"85072",
+			"84970",
+			"82047",
+			"22001",
+			"72977",
+			"22001",
+			"30536",
+			"81132",
+			"82581",
+			"83302",
+			"84392",
+			"84597",
+			"92733",
+			"72977",
+			"83302",
+			"INSERT",
+			"83302",
+			"onlineanfragen",
+			"umbuchenObj",
+			".umbuchenObj",
+			"saison",
+			"saisonzeiten",
+			"$r",
+			"abrechnungsdatum",
+			"$('input[name=\"abreise\"]').datepicker('option', {minDate:",
+			"min",
+			"$art == 0",
+			"Mietvertrag",
+			"Ferienobje",
+			"Mietvertrag",
+			"MyISAM",
+			"trail",
+			".xs-subnavi ",
+			"-7",
+			"78px",
+			"navbar-toggler",
+			"mobile",
+			"autocomplete",
+			"Footer",
+			".custom",
+			"slider",
+			"custom",
+			"fixHeaderHeight",
+			"h2",
+			"h1",
+			"_mobile",
+			"Showing",
+			"Keine Daten verf",
+			"wid-id-1",
+			"saveback",
+			"cloneSaison",
+			"change",
+			"abreise",
+			".abreise",
+			"mode",
+			".saison-summe",
+			"attr",
+			"toFixed",
+			"tageImJahr",
+			"$sortierung",
+			"$mdb",
+			"$dom",
+			"mysql_query(",
+			"$node",
+			"meldeliste",
+			"previews",
+			"superbox",
+			"chat",
+			"ersetzen",
+			"testFile",
+			"prog",
+			"Endreinigung",
+			"UPDATE",
+			"drawBodyAbrechnung2",
+			"drawBodyAbrechnung",
+			"var_d",
+			"utf8_decode",
+			"utf8_encode",
+			"list",
+			"Buchung",
+			"admin",
+			"manager",
+			"admin",
+			".attr(",
+			"zahlungen",
+			".each",
+			"Mieter",
+			"console",
+			"toFixed",
+			"alert",
+			"$typen",
+			"$tage",
+			"kalender_css",
+			"Media",
+			"chat",
+			"eigentuemer_login",
+			"FROM stammdaten"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"REPLACE",
+			"InnoDB",
+			"$DOM",
+			"mysqli_query($DB_ResFewo_1, ",
+			"datei",
+			"",
+			"manager"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wizard.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"js/plugin/ckeditor/plugins/tabletools/dialogs/tableCell.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 694.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/Kunden/wizard/wizard.sublime-project"
+			]
+		],
+		"width": 1159.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

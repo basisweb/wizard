@@ -1,0 +1,20 @@
+/**
+ * basisweb.css
+ * 
+ * Main Style Sheets
+ *
+ * CSS 3
+ *
+ * @author     	Chris Wiese  <c.wiese@basisweb.de>
+ * @copyright   2018 basisweb Chris Wiese (http://basisweb.de)
+ *
+ * @file       	basisweb.js
+ * @lastchange 	06.03.2018
+ * @encoding   	UTF-8
+ * 
+ */
+
+ .canvas {
+ 	border: 1px solid #efefef;
+ }
+ 
