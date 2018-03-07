@@ -51,11 +51,27 @@ UI.view = {
 			// 3D Scene und Kamerapersepektive & -position definieren
 			UI.global.SCENE  = new THREE.Scene();
 			UI.global.CAMERA = new THREE.PerspectiveCamera( 75, $('#' + id).width() / $('#' + id).width(), 0.1, 1000 );
-			UI.global.CAMERA.position.z = 50;
+			UI.global.CAMERA.position.z = 10;
+			UI.global.CAMERA.position.x = 20;
+			UI.global.CAMERA.position.y = 40;
+
+			var ambientLight = new THREE.AmbientLight( 0xffffff, 0.6 );
+			UI.global.SCENE.add( ambientLight );
+			var directionalLight1 = new THREE.DirectionalLight( 0xffffff, 0.5 );
+			var directionalLight2 = new THREE.DirectionalLight( 0xffffff, 0.5);
+			directionalLight1.position.set( 120, 120, 120 );
+			directionalLight2.position.set( -50,-50,-50 );
+			UI.global.SCENE.add( directionalLight1 );
+			UI.global.SCENE.add( directionalLight2 );
 			
 			// 3D Renderer erstellen (WebGL) und Größe zuweisen
-			UI.global.RENDER = new THREE.WebGLRenderer();
+			UI.global.RENDER = new THREE.WebGLRenderer( { antialias: true });
+			UI.global.RENDER.setPixelRatio( window.devicePixelRatio );
 			UI.global.RENDER.setSize( $('#' + id).width(), $('#' + id).width() );
+
+			controls = new THREE.OrbitControls( UI.global.CAMERA, UI.global.RENDER.domElement );
+			controls.target.set( 0, 25, 0 );
+			controls.update();
 
 			// Vom Renderer erstellten DOM-Canvas in Container einfügen
 			 $('#' + id).append( UI.global.RENDER.domElement );
@@ -81,6 +97,28 @@ UI.view = {
 			
 		},
 
+		/**
+		 *
+		 * Zeichnet ein T-Shirt
+		 *
+		 * @param {int} x - Achsenlänge X
+		 * @param {int} y - Achsenlänge Y
+		 * @param {int} z - Achsenlänge Z
+		 *
+		 */
+		drawTShirt: function() {
+		
+			var loader = new THREE.ColladaLoader();
+			loader.load( 'mash/t-shirt.dae', function ( collada ) {
+				//var animations = collada.animations;
+				UI.global.OBJECT = collada.scene;
+				//mixer = new THREE.AnimationMixer( UI.global.OBJECT );
+				//var action = mixer.clipAction( animations[ 0 ] ).play();
+				UI.global.SCENE.add( UI.global.OBJECT );
+			});
+
+		},
+
 
 
 
@@ -94,8 +132,8 @@ UI.view = {
 			requestAnimationFrame( UI.view.ThreeJS.animate );
 
 			// Animation durch Drehen des Objekts über zwei Achsen
-			UI.global.OBJECT.rotation.x += 0.005;
-			UI.global.OBJECT.rotation.y += 0.05;
+			//UI.global.OBJECT.rotation.x += 0.005;
+			//UI.global.OBJECT.rotation.y += 0.05;
 
 			// Abschließendes Berechnen der 3D-Szene
 			UI.global.RENDER.render( UI.global.SCENE, UI.global.CAMERA );

@@ -13,7 +13,7 @@
  * @copyright   2018 basisweb Chris Wiese (http://basisweb.de)
  *
  * @file        basisweb.js
- * @lastchange  06.03.2018
+ * @lastchange  07.03.2018
  * @encoding    UTF-8
  * 
 -->
@@ -39,16 +39,12 @@
         <div class="row">
             <div class="col-12">
               <h1>WIZARD Gesellschaft fürTextilkonzepte mbH</h1>
-              <h2>Demo</h2>
-              <p>Auf der linken Seite ist ein mittels CreateJS erstellter 2D - Kreis zu sehen. Die rechte Seite zeigt einen animierten 3D-Würfel.</p>
+              <h2>T-Shirt - Demo 3D</h2>
             </div>
         </div>
 
 
         <div class="row">
-          <div class="col-md-6 col-sm-12">
-              <canvas id="theStage" width="500" height="540" class="canvas"></canvas>
-          </div>
           <div class="col-6">
               <div id="theScene" width="500" height="500" class="canvas"></div>
           </div>
@@ -64,8 +60,9 @@
     <script src="js/lib/EaselJS-0.8.2/lib/easeljs.min.js"></script>
 
      <!-- ThreeJS -->
-    <script src="js/lib/threeJS-r90/build/three-r90.js"></script>
-    <script src="js/controls/TrackballControls.js"></script>
+    <script src="js/lib/threeJS-r90/three.js"></script>
+    <script src="js/lib/threeJS-r90/loaders/ColladaLoader.js"></script>
+    <script src="js/lib/threeJS-r90/controls/OrbitControls.js"></script>
 
     <!-- basisweb MVC -->
     <script type="text/javascript" src="js/global.js"></script>
